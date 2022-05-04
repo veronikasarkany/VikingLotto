@@ -1,0 +1,15 @@
+C:\Users\Attila\source\repos\VikingLotto0430\VikingLottoAdatBazis\bin\Debug\net5.0\VikingLottoAdatBazis.deps.json
+C:\Users\Attila\source\repos\VikingLotto0430\VikingLottoAdatBazis\bin\Debug\net5.0\VikingLottoAdatBazis.runtimeconfig.json
+C:\Users\Attila\source\repos\VikingLotto0430\VikingLottoAdatBazis\bin\Debug\net5.0\VikingLottoAdatBazis.runtimeconfig.dev.json
+C:\Users\Attila\source\repos\VikingLotto0430\VikingLottoAdatBazis\bin\Debug\net5.0\VikingLottoAdatBazis.dll
+C:\Users\Attila\source\repos\VikingLotto0430\VikingLottoAdatBazis\bin\Debug\net5.0\ref\VikingLottoAdatBazis.dll
+C:\Users\Attila\source\repos\VikingLotto0430\VikingLottoAdatBazis\bin\Debug\net5.0\VikingLottoAdatBazis.pdb
+C:\Users\Attila\source\repos\VikingLotto0430\VikingLottoAdatBazis\obj\Debug\net5.0\VikingLottoAdatBazis.csproj.AssemblyReference.cache
+C:\Users\Attila\source\repos\VikingLotto0430\VikingLottoAdatBazis\obj\Debug\net5.0\VikingLottoAdatBazis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Attila\source\repos\VikingLotto0430\VikingLottoAdatBazis\obj\Debug\net5.0\VikingLottoAdatBazis.AssemblyInfoInputs.cache
+C:\Users\Attila\source\repos\VikingLotto0430\VikingLottoAdatBazis\obj\Debug\net5.0\VikingLottoAdatBazis.AssemblyInfo.cs
+C:\Users\Attila\source\repos\VikingLotto0430\VikingLottoAdatBazis\obj\Debug\net5.0\VikingLottoAdatBazis.csproj.CoreCompileInputs.cache
+C:\Users\Attila\source\repos\VikingLotto0430\VikingLottoAdatBazis\obj\Debug\net5.0\VikingLottoAdatBazis.dll
+C:\Users\Attila\source\repos\VikingLotto0430\VikingLottoAdatBazis\obj\Debug\net5.0\ref\VikingLottoAdatBazis.dll
+C:\Users\Attila\source\repos\VikingLotto0430\VikingLottoAdatBazis\obj\Debug\net5.0\VikingLottoAdatBazis.pdb
+C:\Users\Attila\source\repos\VikingLotto0430\VikingLottoAdatBazis\obj\Debug\net5.0\VikingLottoAdatBazis.genruntimeconfig.cache
